@@ -1,2 +1,3 @@
 # testrepo
 following along IBM Data Science Certificate
+just step by step application of the lecture...
